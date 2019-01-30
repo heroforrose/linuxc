@@ -1,0 +1,1 @@
+int minof(int a,int b);
